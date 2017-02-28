@@ -1,0 +1,54 @@
+{
+	"songs": [
+		{
+			"name": "Primative",
+			"artist": "Real Estate",
+			"album": "Atlas",
+			"year": "2009",
+			"genre": "Rock",
+			"uid": "RMJvKbyKnZU5xVPL2GidOu9ScIr1"
+		},
+		{
+			"name": "Sugar Magnolia",
+			"artist": "Grateful Dead",
+			"album": "John",
+			"year": "1976",
+			"genre": "Rock",
+			"uid": "RMJvKbyKnZU5xVPL2GidOu9ScIr1"
+		},
+		{
+			"name": "Legs",
+			"artist": "ZZTop",
+			"album": "Eliminator",
+			"year": "1975",
+			"genre": "Hip Hop",
+			"uid": "RMJvKbyKnZU5xVPL2GidOu9ScIr1"
+		},
+		{
+			"name": "Ironic",
+			"artist": "Alanis Morisette",
+			"album": "Jagged Little Pill",
+			"year": "1976",
+			"genre": "Hip Hop",
+			"uid": "RMJvKbyKnZU5xVPL2GidOu9ScIr1"
+
+		},
+		{
+			"name": "What's Going On",
+			"artist": "Marvin Gaye",
+			"album": "The Best of Marvin Gaye",
+			"year": "1969",
+			"genre": "Hip Hop",
+			"uid": "RMJvKbyKnZU5xVPL2GidOu9ScIr1"
+		},
+		{
+			"name": "The Logical Song",
+			"artist": "Supertramp",
+			"album": "Breakfast in America",
+			"year": "1988",
+			"genre": "Blues",
+			"uid": "RMJvKbyKnZU5xVPL2GidOu9ScIr1"
+		}
+			
+		]
+	}
