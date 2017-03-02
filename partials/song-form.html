@@ -1,0 +1,31 @@
+<h1>{{title}}</h1>
+<form>
+   <div class="form-group">
+      <label>Song Title</label>
+      <!-- Hook up this form to our JS for submitting -->
+      <input type="text" class="form-control" placeholder="Enter song title" ng-model="newSong.name" />
+   </div>
+            
+   <div class="form-group">
+      <label>Artist</label>
+      <input type="text" class="form-control" placeholder="Enter artist" ng-model="newSong.artist" />
+   </div>
+            
+   <div class="form-group">
+      <label>Album</label>
+      <input type="text" class="form-control" placeholder="Enter album" ng-model="newSong.album" />
+   </div>
+            
+   <div class="form-group">
+      <label>Year Released</label>
+      <input type="text" class="form-control" placeholder="Enter year" ng-model="newSong.year" />
+   </div>
+            
+   <div class="form-group">
+      <label>Genre</label>
+      <input type="text" class="form-control" placeholder="Enter genre" ng-model="newSong.genre" />
+   </div>
+            
+   <!-- TODO: bind this button to a function -->
+   <button class="btn btn-default" ng-click="addNewSong()">{{btnText}}</button>
+</form>
